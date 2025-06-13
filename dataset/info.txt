@@ -1,0 +1,2 @@
+All face images for the project should be placed in this directory.
+This file ensures the folder is tracked by version control.
